@@ -11,7 +11,7 @@ point. The Pi will be addressable at 10.0.0.1 using all the normal methods you
 might use while connected through a network.
 
 RaspiWiFi has been
-tested with the Raspberry Pi B+, Raspberry Pi 3, and Raspberry Pi Zero W.
+tested with the Raspberry Pi B+, Raspberry Pi 3, Raspberry Pi 4 and Raspberry Pi Zero W.
 
 
 
