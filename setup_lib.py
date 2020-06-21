@@ -10,7 +10,7 @@ def install_prereqs():
 	print()
 	os.system('pip3 install flask pyopenssl')
 	os.system('clear')
-	os.system("sudo apt-get install apt-get install dnsmasq nginx -y")
+	os.system("sudo apt-get install dnsmasq nginx -y")
 	os.system('clear')
 
 def copy_configs(wpa_enabled_choice):
